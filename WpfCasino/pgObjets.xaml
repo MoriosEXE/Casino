@@ -1,0 +1,65 @@
+﻿<Page x:Class="WpfCasino.pgObjets"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfCasino"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="pgObjets">
+
+    <Grid>
+        <GroupBox Name="grpListeObjet" Header="Liste des Objet" Margin="2"  >
+            <Grid>
+                <ListView Name="lvObjet" ItemsSource="{Binding}" SelectionMode="Single" Margin="1">
+                    <ListView.Resources>
+                        <ContextMenu x:Key="ctxOnItem">
+                            <MenuItem Header="Supprimer l'Objet sélectionné" Click="SupprimerObjet"/>
+                            <MenuItem Header="Ajouter un Objet" Click="AjouterObjet"/>
+                        </ContextMenu>
+                    </ListView.Resources>
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="{x:Type ListViewItem}">
+                            <Setter Property="ContextMenu" Value="{StaticResource ctxOnItem}"/>
+                        </Style>
+                    </ListView.ItemContainerStyle>
+
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Ajouter un Objet" Click="AjouterObjet"/>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header ="Objet">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBox Text="{Binding Texte, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="125"/>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header ="Estimation">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBox Text="{Binding Estimation, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Width="125"/>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Propriétaire">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <ComboBox SelectedItem="{Binding Client, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                                                  ItemsSource="{Binding Clients, RelativeSource={RelativeSource AncestorType={x:Type local:pgObjets}}}" DisplayMemberPath="Nom" Width="150"/>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</Page>

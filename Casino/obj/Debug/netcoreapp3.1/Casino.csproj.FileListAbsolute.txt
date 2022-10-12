@@ -1,0 +1,49 @@
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csprojAssemblyReference.cache
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.json
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.dev.json
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.genruntimeconfig.cache
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.Fody.CopyLocal.cache
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.dll.config
+C:\Users\romai\Desktop\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.dll.config
+E:\travaille\archive\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.dll.config
+E:\travaille\archive\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+E:\travaille\archive\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.json
+E:\travaille\archive\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.dev.json
+E:\travaille\archive\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+E:\travaille\archive\Dossier Projet C#\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.SuggestedBindingRedirects.cache
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.dll.config
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.Fody.CopyLocal.cache
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+E:\travaille\archive\Dossier Projet C#\Casino\obj\Debug\netcoreapp3.1\Casino.genruntimeconfig.cache
+D:\projet perso\Casino\Casino\bin\Debug\netcoreapp3.1\Casino.dll.config
+D:\projet perso\Casino\Casino\bin\Debug\netcoreapp3.1\Casino.deps.json
+D:\projet perso\Casino\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.json
+D:\projet perso\Casino\Casino\bin\Debug\netcoreapp3.1\Casino.runtimeconfig.dev.json
+D:\projet perso\Casino\Casino\bin\Debug\netcoreapp3.1\Casino.dll
+D:\projet perso\Casino\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.SuggestedBindingRedirects.cache
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.dll.config
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfoInputs.cache
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.AssemblyInfo.cs
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.CoreCompileInputs.cache
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.Fody.CopyLocal.cache
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.dll
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+D:\projet perso\Casino\Casino\obj\Debug\netcoreapp3.1\Casino.genruntimeconfig.cache

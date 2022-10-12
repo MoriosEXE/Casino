@@ -1,0 +1,271 @@
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.exe
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.deps.json
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.runtimeconfig.json
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.runtimeconfig.dev.json
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.pdb
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csprojAssemblyReference.cache
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino_MarkupCompile.cache
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino_MarkupCompile.lref
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.g.resources
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.AssemblyInfoInputs.cache
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.AssemblyInfo.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.CoreCompileInputs.cache
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.CopyComplete
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.pdb
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.genruntimeconfig.cache
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgClients.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgEncheres.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgObjets.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgPays.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgSeances.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgVilles.g.cs
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgClients.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgEncheres.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgObjets.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgPays.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgSeances.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgVilles.baml
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.dll.config
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.dll.config
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Casino.dll.config
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.Fody.CopyLocal.cache
+C:\Users\romai\Desktop\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.exe
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.dll.config
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.deps.json
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.runtimeconfig.json
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.runtimeconfig.dev.json
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.pdb
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Casino.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Casino.pdb
+E:\travaille\archive\Dossier Projet C#\WpfCasino\bin\Debug\netcoreapp3.1\Casino.dll.config
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.AssemblyReference.cache
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.SuggestedBindingRedirects.cache
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.dll.config
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgClients.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgEncheres.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgObjets.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgPays.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgSeances.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgVilles.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\App.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino_MarkupCompile.cache
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino_MarkupCompile.lref
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgClients.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgEncheres.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgObjets.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgPays.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgSeances.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\pgVilles.baml
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.g.resources
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.GeneratedMSBuildEditorConfig.editorconfig
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.AssemblyInfoInputs.cache
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.AssemblyInfo.cs
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.CoreCompileInputs.cache
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.Fody.CopyLocal.cache
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.CopyComplete
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.dll
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.pdb
+E:\travaille\archive\Dossier Projet C#\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.genruntimeconfig.cache
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.exe
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.dll.config
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.deps.json
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.runtimeconfig.json
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.runtimeconfig.dev.json
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\WpfCasino.pdb
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Casino.dll
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Casino.pdb
+D:\projet perso\Casino\WpfCasino\bin\Debug\netcoreapp3.1\Casino.dll.config
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.AssemblyReference.cache
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.SuggestedBindingRedirects.cache
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.dll.config
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgClients.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgEncheres.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgObjets.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgPays.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgSeances.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgVilles.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\App.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino_MarkupCompile.cache
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino_MarkupCompile.lref
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgClients.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgEncheres.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgObjets.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgPays.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgSeances.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\pgVilles.baml
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.g.resources
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.GeneratedMSBuildEditorConfig.editorconfig
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.AssemblyInfoInputs.cache
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.AssemblyInfo.cs
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.CoreCompileInputs.cache
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.Fody.CopyLocal.cache
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.csproj.CopyComplete
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.dll
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.pdb
+D:\projet perso\Casino\WpfCasino\obj\Debug\netcoreapp3.1\WpfCasino.genruntimeconfig.cache

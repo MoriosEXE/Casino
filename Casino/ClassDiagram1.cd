@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Casino.Client">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAABGAAgAgAAAAAAQBAkCAAAAAAACAAAAABAAI=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.Ville">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAQAAAAggAAAgCAAAAAAgCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ville.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.Seance">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEABgBAAAKAAAABAAAAAhAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Seance.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.Pays">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAECAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pays.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.Objet">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAgAAAAAAARAAAgBAIAAAAACAAAAAAAAQ=</HashCode>
+      <FileName>Objet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.21" />
+  </Class>
+  <Class Name="Casino.Enchere">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAIAAAAAAhAAAAAAgAAAAAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>Enchere.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Casino.BDDSingleton">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAAAAAAEQAQJAAACAAAABQEAAACEAAQQAAAgAAAAA=</HashCode>
+      <FileName>singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Casino.CasinoDBContext">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAUQAAAAAACAAAABAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CasinoDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
